@@ -16,11 +16,7 @@ import java.util.Collections;
 import java.util.Date;
 import java.util.Iterator;
 
-/*
-Student Name - Priyanka Penikalapati, Student ID- 999991075
-Class Project - 3, Course Section - 030 
-Adress Book 
-*/
+
 
 public class AddressBookManage {
 
