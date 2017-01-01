@@ -1,7 +1,3 @@
-/*
-Student Name - Priyanka Penikalapati, Student ID- 999991075
-Assignment No - 2, Course Section - 030 
-*/
 import java.io.*;
 import java.util.*;
 
