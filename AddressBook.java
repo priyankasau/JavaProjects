@@ -2,11 +2,6 @@ package Address;
 
 import java.io.Serializable;
 
-/*
-Student Name - Priyanka Penikalapati, Student ID- 999991075
-Class Project - 3, Course Section - 030 
-Adress Book 
-*/
 
 public class AddressBook implements Comparable<AddressBook> {
     private  String name; // Stores name of Contact
