@@ -4,9 +4,6 @@ import java.net.*;
 import java.util.regex.*;
 
 /*
-Student Name - Priyanka Penikalapati, Student ID- 999991075
-Class - MCIS 6163 - Section 032	- Project 1
-
 HttpRequest class implements Runnable interface. 
 This enables multiple instances of HttpRequest classes to be executed by a thread. 
 Overridden run method to include source code for Server client communication. 
