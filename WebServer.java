@@ -3,8 +3,6 @@ package working;
 import java.io.*;
 import java.net.*;
 /*
-Student Name - Priyanka Penikalapati, Student ID- 999991075
-Class - MCIS 6163 - Section 032	- Project 1
 Web Server Class to invoke Multithreaded HTTP Server Communication
 */
 public class WebServer {
